@@ -1,0 +1,30 @@
+h1 {
+  padding: 10px;
+}
+
+h4 {
+  line-height: 1.5;
+}
+
+.row {
+padding: 10px;
+border-width: 1px;
+border-style: solid;
+}
+
+.container1 {
+background-color: white;
+position: relative;
+width: 100%;
+height: 75px;
+
+.container3 {
+  width: 100%;
+  height: 200px;
+}
+
+.container4 {
+  position: absolute;
+  width: 100%;
+  height: 200px;
+}
