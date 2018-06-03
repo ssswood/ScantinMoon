@@ -1,5 +1,5 @@
 body {
-  background-color: navy;
+  background-color: gray;
   background-image: url("../images/present1.jpg");
   background-position: center center;
   background-repeat: no-repeat;
@@ -18,3 +18,14 @@ h1 {
  p {
  	color: black;
  }
+
+ .wrapper {
+    text-align: center;
+}
+
+.btn {
+    position: absolute;
+    top: 45%;
+    font-size: 28px;
+    font-family: Georgia, serif;
+}
